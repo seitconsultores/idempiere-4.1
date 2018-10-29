@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/enabled=true
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/isSystem=false
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/name=iDempiere Server
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/suffix=content.xml
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/uri=file\:/var/lib/jenkins/workspace/iDempiereDaily/buckminster.output/org.adempiere.server_4.1.0-eclipse.feature/site.p2/
+repositories/file\:_var_lib_jenkins_workspace_iDempiereDaily_buckminster.output_org.adempiere.server_4.1.0-eclipse.feature_site.p2/version=1.0.0

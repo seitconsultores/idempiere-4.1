@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.8.0_111-b14 (Oracle Corporation)
+Bundle-SymbolicName: org.adempiere.webstore.servlet
+Export-Package: org.compiere.wstore
+Bundle-Name: iDempiere Web Store Servlets
+Bundle-Version: 4.1.0.v20161031-1735
+Require-Bundle: org.adempiere.base;bundle-version="0.0.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: Adempiere.org
+Import-Package: javax.servlet,javax.servlet.annotation;version="3.1.0"
+ ,javax.servlet.http,javax.servlet.jsp,javax.servlet.jsp.jstl.core,jav
+ ax.servlet.jsp.tagext,org.apache.ecs,org.apache.ecs.xhtml,org.apache.
+ taglibs.standard.tag.el.core
+Fragment-Host: org.adempiere.webstore;bundle-version="0.0.0"
+
